@@ -33,6 +33,8 @@ Conclusion:
 This project successfully introduced a structured, data-driven perks program that enhances the TravelTide user experience. By implementing a scalable and automated rewards system, TravelTide is well-positioned to strengthen customer relationships, drive engagement, and maintain a competitive edge in the travel industry.
 
 LINKS TO WORK:
-Video -
+Video - https://www.loom.com/share/13d06de94e10449682408fa733f3e99d?sid=01b6cd3c-bc4a-45b7-b18a-af6763e0ebda
 
 Visulation - https://public.tableau.com/app/profile/justin.l.tter/viz/TravelTideVIZ/Userspercity
+
+Initial investigation - https://public.tableau.com/app/profile/justin.l.tter/viz/InitialDatasetExploration/PercentageMarried
